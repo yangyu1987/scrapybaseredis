@@ -41,10 +41,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BaseTemp/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-941">
+            <state relative-caret-position="-1089">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hc360.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/hc360.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imdbcrawl.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/imdbcrawl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -97,6 +119,7 @@
         <option value="$PROJECT_DIR$/BaseTemp/func_test/test_func.py" />
         <option value="$PROJECT_DIR$/BaseTemp/settings.py" />
         <option value="$PROJECT_DIR$/BaseRedis/spiders/hc360.py" />
+        <option value="$PROJECT_DIR$/BaseTemp/spiders/testredis.py" />
       </list>
     </option>
   </component>
@@ -150,11 +173,6 @@
           <expand>
             <path>
               <item name="BaseTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BaseTemp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BaseTemp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BaseTemp" type="462c0819:PsiDirectoryNode" />
               <item name="BaseTemp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -322,8 +340,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1653" height="939" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1651" height="931" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -333,7 +350,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2001243" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1852082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1852082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3438486" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -398,7 +415,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BaseTemp/tools/YDMHTTPDemo3.x.py" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/tools/getimage.jpg" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/tools/yundama.py" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/tools/cookie_pool.py" />
@@ -416,7 +432,6 @@
     <entry file="file://$PROJECT_DIR$/BaseTemp/items.py" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/lie.py" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/func_test/request_test.py" />
-    <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/imdbcrawl.py" />
     <entry file="file://$PROJECT_DIR$/tel.json" />
     <entry file="file://$PROJECT_DIR$/../../virtualenv/scrapy/Lib/site-packages/scrapy/pipelines/__init__.py" />
     <entry file="file://$PROJECT_DIR$/../../virtualenv/scrapy/Lib/site-packages/scrapy/core/scraper.py" />
@@ -448,13 +463,24 @@
     <entry file="file://$PROJECT_DIR$/Artical/Artical/pipelines.py" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/func_test/test_func.py" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/tools/eyes.py" />
-    <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/hc360.py" />
+    <entry file="file://$PROJECT_DIR$/BaseRedis/settings.py" />
+    <entry file="file://$PROJECT_DIR$/BaseRedis/items.py" />
+    <entry file="file://$PROJECT_DIR$/BaseRedis/spiders/hc360.py" />
+    <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/testredis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#24#33#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="redis://IedisURI?type=Explorer&amp;label=192.168.0.4&amp;host=192.168.0.4&amp;port=6379&amp;password=&amp;timestamp=1511630711703&amp;nodeHost=192.168.0.4&amp;nodePort=6379">
       <provider selected="true" editor-type-id="x">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaseRedis/settings.py" />
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -465,11 +491,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaseRedis/items.py" />
-    <entry file="file://$PROJECT_DIR$/BaseRedis/spiders/hc360.py" />
     <entry file="file://$PROJECT_DIR$/BaseTemp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-941">
+        <state relative-caret-position="-1089">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/hc360.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseTemp/spiders/imdbcrawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
